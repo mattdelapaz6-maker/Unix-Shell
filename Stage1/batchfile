@@ -1,0 +1,8 @@
+cd
+clr
+dir
+echo
+environ
+pause
+help
+quit
